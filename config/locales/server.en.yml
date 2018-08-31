@@ -1,0 +1,3 @@
+en:
+  site_settings: 
+    discourse_plugin_template_enabled: 'Enable the Discourse Plugin Template plugin.'
